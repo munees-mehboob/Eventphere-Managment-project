@@ -45,4 +45,4 @@ next-env.d.ts
 .tmp/
 temp/
 
-credentialsforthedev.txt
+credentialsforotherdev.txt
